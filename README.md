@@ -7,7 +7,7 @@ This paper contributes a novel cognitively-inspired method for RGB-D indoor scen
 ## Applied on SUNRGBD and NYU Depth V2 datasets
 
 ### Requirements
-* torch (Current working with 1.3.1)
+* torch (Currently working with 1.3.1)
 * Scipy (Currently working with 1.2.1)
 * Scikit Learn (Currently working with 0.21.2)
 * Get the models pretrained on Places365 dataset from from https://github.com/CSAILVision/places365
