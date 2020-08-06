@@ -1,7 +1,7 @@
 ﻿
-﻿# Centroid Based Concept Learning for RGB-D Indoor Scene Classification
-Keras code for the paper: [Centroid Based Concept Learning for RGB-D Inddor Scene Classification](https://arxiv.org/abs/1911.00155) 
-## Applied on CIFAR-100, Caltech-101 and CUBS-200-2011 
+# Centroid Based Concept Learning for RGB-D Indoor Scene Classification
+Pytorch code for the paper: [Centroid Based Concept Learning for RGB-D Inddor Scene Classification](https://arxiv.org/abs/1911.00155) 
+## Applied on SUNRGBD and NYU Depth V2 datasets
 
 ### Requirements
 * torch (Current working with 1.3.1)
